@@ -1,7 +1,1 @@
-Creates a copy of a remote repository on your local machine.
-
-git clone https://github.com/username/repository.git
-
-git add
-
-Stages changes for commit.
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
